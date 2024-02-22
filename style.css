@@ -204,3 +204,43 @@ div #textosobre h5{
         text-align: center; 
     }
 }
+
+
+@media  screen and (max-width: 900px) {
+    #link{
+        text-align: center; 
+    }
+
+    #mainsobre{
+        display: flex;
+        flex-direction: column;
+    }
+
+    #textosobre{
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    div #textosobre h5{
+        font-weight: 400;
+        padding: 0 100px 4vw;
+    }
+
+    #ingles{
+        padding: 0 100px 4vw;
+    }
+
+    #portugues{
+        padding: 0 100px 4vw;
+    }
+
+    #maincontato{
+        display: flex;
+        flex-direction: column;
+    }
+
+    #amelhor{
+        padding: 30px;
+    }
+}
