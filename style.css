@@ -206,7 +206,7 @@ div #textosobre h5{
 }
 
 
-@media  screen and (max-width: 900px) {
+@media  screen and (max-width: 480px) {
     #link{
         text-align: center; 
     }
