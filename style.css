@@ -206,7 +206,7 @@ div #textosobre h5{
 }
 
 
-@media  screen and (max-width: 480px) {
+@media  screen and (max-width: 900px) {
     #link{
         text-align: center; 
     }
@@ -224,15 +224,15 @@ div #textosobre h5{
 
     div #textosobre h5{
         font-weight: 400;
-        padding: 0 100px 4vw;
+        padding: 0 60px 4vw;
     }
 
     #ingles{
-        padding: 0 100px 4vw;
+        padding: 0 60px 4vw;
     }
 
     #portugues{
-        padding: 0 100px 4vw;
+        padding: 0 60px 4vw;
     }
 
     #maincontato{
