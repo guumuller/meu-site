@@ -85,6 +85,16 @@ main{
     width: 100%;
 }
 
+#imggit{
+    max-width: 20px;
+    max-height: 20px;
+    width: auto;
+    height: auto;
+    display:inline-block;
+    text-align: center;
+    color: aliceblue;
+}
+
 #botaogit{
     background-color: #707CC0;
     border-color: #707CC0;
