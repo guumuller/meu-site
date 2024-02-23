@@ -78,6 +78,21 @@ main{
     color: aliceblue;
 }
 
+#git{
+    text-align: center;      
+    padding-top: 65px;
+    padding-bottom: 65px;
+    width: 100%;
+}
+
+#botaogit{
+    background-color: #707CC0;
+    border-color: #707CC0;
+    cursor: pointer;
+    border-radius: 15px;
+    padding: 1px;
+}
+
 /*----- CSS SOBRE -----*/
 
 #mainsobre{
